@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Manvi28
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Dsa in C++, backend 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Dsa in C++, backend
 - 📫 How to reach me singhmanvi5983@gmail.com
   
 
