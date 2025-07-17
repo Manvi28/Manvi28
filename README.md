@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/singhmanvi9019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="singhmanvi9019" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manvi-singh-ba74b5296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manvi-singh-ba74b5296/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manvi-singh-ba74b5296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manvi-singh-ba74b5296/" height="30" width="40" /></a>
 <a href="https://kaggle.com/manvisingh28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manvisingh28" height="30" width="40" /></a>
 <a href="https://instagram.com/artistic_flair09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artistic_flair09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manvi2808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manvi2808" height="30" width="40" /></a>
